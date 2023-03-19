@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints if last digits of a number are greater than 5, less than 6 or equals to 0.
+ * main - Is last digit greater than 6, less than 5 or = to 0.
  *
  * Return: 0 (Success)
  */
